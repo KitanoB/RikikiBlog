@@ -3,13 +3,13 @@ date: '2025-05-31T20:47:46+02:00'
 draft: false
 title: 'Pull Request Validation Intelligence Artificielle'
 cover:
-    image: "/post1/pria.png"
-    alt: "The alt text"
+    image: "pria.png"  # Chemin relatif
+    alt: "Developpeur utilisant l’IA pour valider ses PR"
     caption: ""
-    relative: false
+    relative: true     # Important !
 ---
 
-![Double Check AI] (/post1/pria.png)
+![Double Check AI](pria.png)
 
 ## Comment je valide mes PR… avec l’aide de l’IA
 
