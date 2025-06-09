@@ -3,13 +3,14 @@ date: '2025-05-31T20:01:02+02:00'
 draft: false
 title: 'Docker Compose Explications'
 cover:
-    image: "https://github.com/KitanoB/RikikiBlog/blob/main/content/posts/post-3/dockercompose.png"       
+    image: "dockercompose.png"       
     alt: "docker compose illustration"
     caption: ""
     relative: true           
 ---
 
-<img src="https://github.com/KitanoB/RikikiBlog/blob/main/content/posts/post-3/dockercompose.png" alt="docker-compose illustration" width="200" height="200" />
+{{< figure src="dockercompose.png" alt="docker compose illustration" width="400" >}}
+
 
 ## Dans les coulisses du docker-compose de RikikiLink
 

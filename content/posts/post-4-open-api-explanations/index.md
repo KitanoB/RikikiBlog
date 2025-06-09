@@ -1,15 +1,15 @@
 ---
-date: '2025-06-09T10:00:00+02:00'
+date: '2025-06-09T08:00:00+02:00'
 draft: false
 title: 'Pourquoi un contrat OpenAPI est essentiel pour votre API (Exemple avec RikikiLink)'         
 cover:
-    image: "https://github.com/KitanoB/RikikiBlog/blob/main/content/posts/post-4/swagger.png"       
+    image: "swagger.png"       
     alt: "open api illustration"
     caption: ""
     relative: true           
 ---
 
-<img src="https://github.com/KitanoB/RikikiBlog/blob/main/content/posts/post-4/swagger.png" alt="open api illustration" width="200" height="200" />
+{{< figure src="swagger.png" alt="open api illustration" width="400" >}}
 
 ## Pourquoi un contrat OpenAPI est essentiel pour votre API (Exemple avec RikikiLink)
 

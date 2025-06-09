@@ -3,13 +3,13 @@ date: '2025-05-31T20:47:46+02:00'
 draft: false
 title: 'Pull Request Validation Intelligence Artificielle'
 cover:
-    image: "https://github.com/KitanoB/RikikiBlog/blob/main/content/posts/post-1/pria.png"       
+    image: "pria.png"       
     alt: "Double Check AI"
     caption: ""
     relative: true           
 ---
 
-<img src="https://github.com/KitanoB/RikikiBlog/blob/main/content/posts/post-1/pria.png" alt="drawing" width="200" height="200" />
+{{< figure src="pria.png" alt="Double Check AI" width="400" >}}
 
 ## Comment je valide mes PR… avec l’aide de l’IA
 
