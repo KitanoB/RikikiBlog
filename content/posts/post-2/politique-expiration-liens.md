@@ -2,7 +2,14 @@
 date: '2025-05-31T20:14:03+02:00'
 draft: false
 title: "Politique d'expiration des liens pour RikikiLink"
+cover:
+    image: "https://github.com/KitanoB/RikikiBlog/blob/main/content/posts/post-2/expiration-link.png"       
+    alt: "Illustration de l'expiration des liens"
+    caption: ""
+    relative: true           
 ---
+
+<img src="https://github.com/KitanoB/RikikiBlog/blob/main/content/posts/post-2/expiration-link.png" alt="illustration expiration lien" width="200" height="200" />
 
 ## Pourquoi une expiration simple des liens ? Retour sur un choix pragmatique
 
